@@ -1,5 +1,5 @@
 ### Olá, eu sou Michel Azevedo 👋
-Sou profissional multidisciplinar apaixonado por informática e tecnologia, mapeamento e modelagem de processos, design e marketing digital. Atualmente como Scrum PO, entrega soluções de software para instituições públicas e privadas nas regiões norte e nordeste por meio da aplicação de metodologias ágeis. Também atua como Web Designer e Consultor de Marketing Digital atendendo pequenos negócios e empreendedores em todo o Brasil.
+Sou profissional multidisciplinar apaixonado por informática e tecnologia, mapeamento e modelagem de processos, design e marketing digital. Atualmente como Scrum PO, entrego soluções de software para instituições públicas e privadas nas regiões norte e nordeste por meio da aplicação de metodologias ágeis. Também atuo como Web Designer na construção de sites e páginas web. Como Consultor de Marketing Digital atendendo empreendedores, micro e pequenos negócios em todo o Brasil.
 
 Interessado em contratar meus serviços? Fale comigo, tenho certeza que poderei ajudar você e seu negócio a se destacar no mercado digital, conquistar clientes e desenvolver novas ideias.
 
