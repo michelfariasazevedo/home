@@ -1,4 +1,8 @@
-### Olá, eu sou Michel Azevedo, Analista de Negócios e Desenvolvedor de Websites 👋
+### Olá, eu sou Michel Azevedo 👋
+Sou profissional multidisciplinar apaixonado por informática e tecnologia, mapeamento e modelagem de processos, design e marketing digital. Atualmente como Scrum PO, entrega soluções de software para instituições públicas e privadas nas regiões norte e nordeste por meio da aplicação de metodologias ágeis. Também atua como Web Designer e Consultor de Marketing Digital atendendo pequenos negócios e empreendedores em todo o Brasil.
+
+Interessado em contratar meus serviços? Fale comigo, tenho certeza que poderei ajudar você e seu negócio a se destacar no mercado digital, conquistar clientes e desenvolver novas ideias.
+
 <div align="center">
   <a href="https://github.com/michelfariasazevedo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=michelfariasazevedo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
