@@ -1,7 +1,7 @@
 ### Olá, eu sou Michel Azevedo 👋
 Sou um profissional multidisciplinar, apaixonado por informática e tecnologia, mapeamento e modelagem de processos, design e marketing digital, programação e empreendedorismo. Iniciei na área de manutenção e suporte à redes de computadores, mas logo em seguida migrei para a área de análise de sistemas.
 
-Também atuo como Designer de sites e páginas web com HTML, CSS e JS, atendendo empreendedores, micro e pequenos negócios em todo o Brasil.
+Também atuo como designer de sites e na criação de páginas web com HTML, CSS e JS, atendendo empreendedores, micro e pequenos negócios em todo o Brasil.
 
 Interessado em fechar uma parceria? Fale comigo, tenho certeza que poderei ajudar você ou seu negócio a se destacar no mercado digital, conquistar clientes e desenvolver novas ideias.
 
