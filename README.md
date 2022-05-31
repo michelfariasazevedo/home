@@ -17,6 +17,9 @@ Sou um profissional multidisciplinar, apaixonado por informática e tecnologia, 
 Também atuo como designer de sites e na criação de páginas web com HTML, CSS e JS, atendendo empreendedores, micro e pequenos negócios em todo o Brasil.
 
 Interessado em fechar uma parceria? Fale comigo!
+
++55 96 98123-1257
+michelfariasazevedo@gmail.com
 ##
 
 <br/>
