@@ -19,6 +19,7 @@ Também atuo como designer de sites e na criação de páginas web com HTML, CSS
 Interessado em fechar uma parceria? Fale comigo!
 
 +55 96 98123-1257
+<br/>
 michelfariasazevedo@gmail.com
 ##
 
