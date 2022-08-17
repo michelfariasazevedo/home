@@ -1,26 +1,32 @@
 ### Olá, eu sou Michel Azevedo 👋
 
-✔️ Analista de Requisitos 
+##
+
+Atuo a pouco mais de 5 anos como consultor de negócios e soluções digitais na criação de sites, páginas de vendas, vitrines e lojas virtuais; criação de artes e identidade visual; criação de aplicativos e sistemas web; e programação de robôs de atendimento para Facebook, Telegram e WhatsApp. Além de prestar serviços de marketing digital para empreendedores, micro e pequenos negócios em todo o Brasil.
+
+Trabalho diariamebte com Fireworks CS6, Mobirise Page Builder, CSS, HTML, JS e Bootstrap. Tenho conhecimento no Figma, CorelDraw, PowerPoint, Cantasia Studio e outras ferramentas.
+
+Recentemente concluí mais um curso em MBA em Marketing Digital, sou especialista em Auditoria e Segurança em TI e tenho formação em Sistemas de Informação.
+
+Me interesso por tecnologia, cultura pop, música, arte e natureza. Sou apaixonado pelo mundo dos negócios e gestão, gosto de aprender e sinto enorme satisfação em ensinar.
+
+Sou pai, proativo, criativo, colaborativo, organizado (e até certo ponto metódico), e muito determinado.
+
+Se você quer construir sua marca e um branding inesquecível, eu posso te ajudar!
+
+##
+
+Interessado em fechar uma parceria? Fale comigo!
+
+✔️ +55 96 98123-1257
 <br/>
-✔️ Designer de sites e páginas web 
+✔️ comercial@mfaconsultoriadigital.com.br
 <br/>
-✔️ Consultor de Marketing Digital e Vendas On-line
-<br/>
-✔️ Empreendedor digital 
+✔️ https://mfaconsultoriadigital.com.br
 <br/>
 
 Macapá - AP, Brasil 🏡 
 
-##
-Sou um profissional multidisciplinar, apaixonado por informática e tecnologia, mapeamento e modelagem de processos, design e marketing digital, programação e empreendedorismo. Iniciei na área de manutenção e suporte à redes de computadores, mas logo em seguida migrei para a área de análise de sistemas.
-
-Também atuo como designer de sites e na criação de páginas web com HTML, CSS e JS, atendendo empreendedores, micro e pequenos negócios em todo o Brasil.
-
-Interessado em fechar uma parceria? Fale comigo!
-
-+55 96 98123-1257
-<br/>
-michelfariasazevedo@gmail.com
 ##
 
 <br/>
@@ -37,14 +43,14 @@ michelfariasazevedo@gmail.com
 
 <p align="center"></p>
 
-### 📱 Contatos
+### 📱 Me acompanhe nas redes
   
 <div> 
  <a href="https://discord.io/michelfariasazevedo" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/azevedomichel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:michelfariasazevedo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-## Tecnologias 🚀 Habilidades
+## 🚀 Habilidades que estou laptando
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="Michel-Js" height="30" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
