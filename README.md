@@ -10,7 +10,7 @@ Recentemente concluí mais um curso em MBA em Marketing Digital, sou especialist
 
 Me interesso por tecnologia, cultura pop, música, arte e natureza. Sou apaixonado pelo mundo dos negócios e gestão, gosto de aprender e sinto enorme satisfação em ensinar.
 
-Sou pai, proativo, criativo, colaborativo, organizado (e até certo ponto metódico), e muito determinado.
+Sou pai, proativo, criativo, colaborativo, organizado (até certo ponto metódico), e muito determinado.
 
 Se você quer construir sua marca e um branding inesquecível, eu posso te ajudar!
 
