@@ -6,7 +6,7 @@ Atuo a pouco mais de 5 anos como consultor de negócios e soluções digitais na
 
 Trabalho diariamebte com Fireworks CS6, Mobirise Page Builder, CSS, HTML, JS e Bootstrap. Tenho conhecimento no Figma, CorelDraw, PowerPoint, Cantasia Studio e outras ferramentas.
 
-Recentemente concluí mais um curso em MBA em Marketing Digital, sou especialista em Auditoria e Segurança em TI e tenho formação em Sistemas de Informação.
+Recentemente concluí mais um curso em MBA em Marketing Digital, sou especialista em Auditoria e Segurança em TI e tenho formação em Sistemas de Informação. (são mais de 10 anos de experiência)
 
 Me interesso por tecnologia, cultura pop, música, arte e natureza. Sou apaixonado pelo mundo dos negócios e gestão, gosto de aprender e sinto enorme satisfação em ensinar.
 
