@@ -4,7 +4,7 @@
 
 Atuo a pouco mais de 5 anos como consultor de negócios e soluções digitais na criação de sites, páginas de vendas, vitrines e lojas virtuais; criação de artes e identidade visual; criação de aplicativos e sistemas web; e programação de robôs de atendimento para Facebook, Telegram e WhatsApp. Além de prestar serviços de marketing digital para empreendedores, micro e pequenos negócios em todo o Brasil.
 
-Trabalho diariamebte com Fireworks CS6, Mobirise Page Builder, CSS, HTML, JS e Bootstrap. Tenho conhecimento no Figma, CorelDraw, PowerPoint, Cantasia Studio e outras ferramentas.
+Trabalho diariamebte com Fireworks CS6, Mobirise Page Builder, CSS, HTML, JS e Bootstrap. Tenho conhecimento no Figma, CorelDraw, PowerPoint, VB for Excel, Cantasia Studio e outras ferramentas de edição, produtividade e gestão.
 
 Recentemente concluí mais um curso em MBA em Marketing Digital, sou especialista em Auditoria e Segurança em TI e tenho formação em Sistemas de Informação. (são mais de 10 anos de experiência)
 
