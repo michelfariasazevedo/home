@@ -12,7 +12,7 @@ Me interesso por tecnologia, cultura pop, música, arte e natureza. Sou apaixona
 
 Sou pai, proativo, criativo, colaborativo, organizado (até certo ponto metódico), e muito determinado.
 
-Se você quer construir sua marca e um branding inesquecível, eu posso te ajudar!
+Se você quer construir sua marca com posicionamento e engajamento com foco no relacionamento com seus clietens, através de poderosas ferramentas tecnológicas e estratégias de marketing digital, eu posso te ajudar!
 
 ##
 
