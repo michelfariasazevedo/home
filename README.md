@@ -2,7 +2,7 @@
 
 ##
 
-Atuo a pouco mais de 5 anos como consultor de negócios e soluções digitais na criação de sites, páginas de vendas, vitrines e lojas virtuais; criação de artes e identidade visual; criação de aplicativos e sistemas web; e programação de robôs de atendimento para Facebook, Telegram e WhatsApp. Além de prestar serviços de marketing digital para empreendedores, micro e pequenos negócios em todo o Brasil.
+Atuo a pouco mais de 5 anos como consultor de negócios e soluções digitais na criação de sites, páginas de vendas, vitrines e lojas virtuais; criação de artes e identidade visual; criação de aplicativos e sistemas web; e programação de robôs de atendimento para Facebook e WhatsApp. Além de prestar serviços de web marketing para empreendedores, micro e pequenos negócios em todo o Brasil.
 
 Trabalho diariamebte com Fireworks CS6, Mobirise Page Builder, CSS, HTML, JS e Bootstrap. Tenho conhecimento no Figma, CorelDraw, PowerPoint, VB for Excel, Cantasia Studio e outras ferramentas de edição, produtividade e gestão.
 
@@ -20,9 +20,9 @@ Interessado em fechar uma parceria? Fale comigo!
 
 ✔️ +55 96 98123-1257
 <br/>
-✔️ comercial@mfaconsultoriadigital.com.br
+✔️ comercial@opentofreelas.com.br
 <br/>
-✔️ https://mfaconsultoriadigital.com.br
+✔️ https://opentrofreelas.com.br
 <br/>
 
 Macapá - AP, Brasil 🏡 
