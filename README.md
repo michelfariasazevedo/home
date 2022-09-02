@@ -20,7 +20,7 @@ Interessado em fechar uma parceria? Fale comigo!
 
 ✔️ +55 96 98123-1257
 <br/>
-✔️ comercial@opentofreelas.com.br
+✔️ contato@opentofreelas.com.br
 <br/>
 ✔️ https://opentrofreelas.com.br
 <br/>
