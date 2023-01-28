@@ -2,23 +2,17 @@
 
 ##
 
-Atuo a pouco mais de 5 anos como consultor de negócios e soluções digitais na criação de sites, páginas de vendas, vitrines e lojas virtuais; criação de artes e identidade visual; criação de aplicativos e sistemas web; e programação de robôs de atendimento para Facebook e WhatsApp. Além de prestar serviços de web marketing para empreendedores, micro e pequenos negócios em todo o Brasil.
+Atuo a mais de 15 anos na área de TI, sendo boa parte da minha vivência em ambientes corporativos e colaborativos de rede de computadores, prestando atendimento e suporte à usuários em diversas áreas e níveis hierárquicos. De lá pra cá (e agora com mais experiência e maturidade), venho empreendendo na internet, atuando como freelance, oferecendo todo meu know-how em análise, modelagem e prototipação de apps e sistemas web; Projetos de desenvolvimento de sites, páginas web, lojas virtuais e de robôs de autoatendimento. Além de outros serviços voltado às micros, pequenas e médias empresas em minha região e também em outras capitais do país.
 
-Trabalho diariamente com Fireworks CS6, Mobirise Page Builder, CSS, HTML, JS e Bootstrap. Tenho conhecimento no Figma, CorelDraw, PowerPoint, VB for Excel, Cantasia Studio e outras ferramentas de edição, produtividade, modelagem e gestão.
+Sou formado em Sistemas de Informação, especialista em Auditoria e Segurança em TI e também tenho um MBA em Marketing Digital. Trabalho diariamente com Fireworks CS6, Mobirise Page Builder, CSS, HTML, JS e Bootstrap. Tenho conhecimento no Figma, CorelDraw, PowerPoint, VB for Excel, Cantasia Studio e outras ferramentas de edição, produtividade, modelagem e gestão.
 
-Recentemente concluí mais um curso em MBA em Marketing Digital, sou especialista em Auditoria e Segurança em TI e tenho formação em Sistemas de Informação. (são mais de 10 anos de experiência)
-
-Me interesso por tecnologia, cultura pop, música, arte e natureza. Sou apaixonado por tecnologia, pelo mundo dos negócios e gestão, gosto de aprender e sinto enorme satisfação em ensinar.
-
-Sou pai, palestrante, proativo, criativo, colaborativo, organizado (até certo ponto metódico), e muito determinado.
-
-Se você quer construir um projeto digital ou web com foco na experiência e no relacionamento com seus clietens, através de poderosas ferramentas tecnológicas e estratégias de marketing digital, eu posso te ajudar!
+Sou pai dedicado, sou proativo, criativo, colaborativo, organizado (um pouco metódico, admito), e muito determinado. Me interesso por fotografia, cultura pop, arte, música e natureza. Sou apaixonado por tecnologia e empreendedorismo, e acredito na sinergia entre as pessoas para resolverem problemas do dia-a-dia com praticidade e inteligência.
 
 ##
 
-Interessado em fechar uma parceria? Fale comigo!
+Se você gostou de meu perfil, acredita no meu potencial, pode me indicar boas oportunidades de trabalho ou apenas quer contratar meus serviços, ou quem sabe uma mentoria, entre em contato comigo:
 
-✔️ +55 96 98123-1257
+✔️ +55 96 98123-1257 (WhatsApp)
 <br/>
 ✔️ contato@opentofreelas.com.br
 <br/>
