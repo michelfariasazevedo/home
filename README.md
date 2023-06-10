@@ -14,9 +14,9 @@ Se você gostou de meu perfil, acredita no meu potencial, pode me indicar boas o
 
 ✔️ +55 96 98123-1257 (WhatsApp)
 <br/>
-✔️ contato@opentofreelas.com.br
+✔️ contato@mrfreela.com.br
 <br/>
-✔️ https://opentrofreelas.com.br
+✔️ https://mrfreela.com.br
 <br/>
 
 Macapá - AP, Brasil 🏡 
