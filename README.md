@@ -2,7 +2,7 @@
 
 ##
 
-Atuo a mais de 15 anos na área de TI, sendo boa parte da minha vivência em ambientes corporativos e colaborativos de rede de computadores, prestando atendimento e suporte à usuários em diversas áreas e níveis hierárquicos. De lá pra cá (e agora com mais experiência e maturidade), venho empreendendo na internet, atuando como freelance, oferecendo todo meu know-how em análise, modelagem e prototipação de apps e sistemas web; Projetos de desenvolvimento de sites, páginas web, lojas virtuais e de robôs de autoatendimento. Além de outros serviços voltado às micros, pequenas e médias empresas em minha região e também em outras capitais do país.
+Atuo a mais de 12 anos na área de TI, sendo boa parte da minha vivência em ambientes corporativos e colaborativos de rede de computadores, prestando atendimento e suporte à usuários em diversas áreas e níveis hierárquicos. De lá pra cá (e agora com mais experiência e maturidade), venho empreendendo na internet, atuando como freelance, oferecendo todo meu know-how em análise, modelagem e prototipação de apps e sistemas web; Projetos de desenvolvimento de sites, páginas web, lojas virtuais e de robôs de autoatendimento. Além de outros serviços voltado às micros, pequenas e médias empresas em minha região e também em outras capitais do país.
 
 Sou formado em Sistemas de Informação, especialista em Auditoria e Segurança em TI e também tenho um MBA em Marketing Digital. Trabalho diariamente com Fireworks CS6, Mobirise Page Builder, CSS, HTML, JS e Bootstrap. Tenho conhecimento no Figma, CorelDraw, PowerPoint, VB for Excel, Cantasia Studio e outras ferramentas de edição, produtividade, modelagem e gestão.
 
