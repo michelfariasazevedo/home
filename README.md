@@ -10,7 +10,7 @@ Sou pai dedicado, sou proativo, criativo, colaborativo, organizado (um pouco met
 
 ##
 
-Se você gostou de meu perfil, acredita no meu potencial, pode me indicar boas oportunidades de trabalho ou apenas quer contratar meus serviços, ou quem sabe uma mentoria, entre em contato comigo:
+Se você gostou de meu perfil, pode me indicar boas oportunidades de trabalho ou apenas quer contratar meus serviços, entre em contato comigo:
 
 ✔️ +55 96 98123-1257 (WhatsApp)
 <br/>
