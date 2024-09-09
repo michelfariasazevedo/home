@@ -14,9 +14,7 @@ Se você gostou de meu perfil, pode me indicar boas oportunidades de trabalho ou
 
 ✔️ +55 96 98123-1257 (WhatsApp)
 <br/>
-✔️ contato@mrfreela.com.br
-<br/>
-✔️ https://mrfreela.com.br
+✔️ michelfariasazevedo@gmail.com
 <br/>
 
 Macapá - AP, Brasil 🏡 
